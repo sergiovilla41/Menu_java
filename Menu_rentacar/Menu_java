@@ -1,0 +1,65 @@
+run:
+Que sede desea gestionar?: 
+
+MENU AUTOLARTE
+1.Sede Palac
+2.Sede Poblado
+3.Sede Rionegro
+4.Datos estad
+0.Salir
+
+4
+--DATOS ESTADISTICOS--
+La sede con mas empleados es es Poblado con: 16
+
+Que sede desea gestionar?: 
+
+MENU AUTOLARTE
+1.Sede Palac
+2.Sede Poblado
+3.Sede Rionegro
+4.Datos estad
+0.Salir
+
+2
+--SEDE Poblado--
+Cantidad de Empleados: 16
+Que Desea Realizar
+1.Ventas mes
+2.Promedio ventas en el mes
+3.Comisiones
+
+1
+Ingrese la cantidad de ventas a facturar: 
+1
+Ingrese el monto de la venta: 1
+2000000
+Que sede desea gestionar?: 
+
+MENU AUTOLARTE
+1.Sede Palac
+2.Sede Poblado
+3.Sede Rionegro
+4.Datos estad
+0.Salir
+
+4
+--DATOS ESTADISTICOS--
+La sede con mayor numero de ventas es Poblado con: 1
+
+La sede con mas empleados es es Poblado con: 16
+
+La sede con el promedio mas alto es Poblado con: $2000000.0
+
+Que sede desea gestionar?: 
+
+MENU AUTOLARTE
+1.Sede Palac
+2.Sede Poblado
+3.Sede Rionegro
+4.Datos estad
+0.Salir
+
+0
+--HASTA PRONTO--
+BUILD SUCCESSFUL (total time: 42 seconds)
